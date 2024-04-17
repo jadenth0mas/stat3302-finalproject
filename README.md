@@ -1,1 +1,3 @@
-# stat3302-finalproject
+# Stat 3302 Final Project SP24
+
+
